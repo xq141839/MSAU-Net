@@ -37,5 +37,3 @@ python predict.py --dataset test_set --model checkpoints/model_1.pth
   year = 	 {2021}
 }
 ```
-## Acknowledgement
-The codes are modified from [ResNeSt](https://github.com/zhanghang1989/ResNeSt/tree/5fe47e93bd7e098d15bc278d8ab4812b82b49414), [U-Net](https://github.com/milesial/Pytorch-UNet)
